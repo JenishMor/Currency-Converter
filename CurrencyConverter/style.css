@@ -12,8 +12,8 @@ body {
 }
 
 h2 {
-  margin: 5px 0;
-  color: rgb(111, 206, 235);
+  margin: 15px 0;
+  color: rgb(145, 145, 233);
   text-align: center;
   text-decoration: underline;
 }
@@ -65,11 +65,11 @@ input {
   border-radius: 6px;
   border: none;
   background-color: rgb(165, 165, 236);
-  transition: all .3s;
+  transition: all 0.3s;
   margin-left: 4px;
   font-size: 15px;
 }
 
-.btn:hover{
-    background-color: rgb(145, 145, 233);
+.btn:hover {
+  background-color: rgb(145, 145, 233);
 }
